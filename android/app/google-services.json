@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "496207826277",
+    "project_id": "nearbysocial-d0314",
+    "storage_bucket": "nearbysocial-d0314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496207826277:android:cf7747bd1bb9c0ae09258c",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2B_SsFkRYrwQI36WkgyFkFGZmvWpGP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496207826277-291d4vp13bfbjbdb9nsick7gp1p2nat4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.piattochat.mehdimehdi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496207826277:android:91daf1187d5d7b6109258c",
+        "android_client_info": {
+          "package_name": "com.example.mehdi_nearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2B_SsFkRYrwQI36WkgyFkFGZmvWpGP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496207826277-291d4vp13bfbjbdb9nsick7gp1p2nat4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.piattochat.mehdimehdi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496207826277:android:46979a91c557020709258c",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_mehdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2B_SsFkRYrwQI36WkgyFkFGZmvWpGP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496207826277-4j9dt7gu4j0ak9bvvg57dv6ada0pgikv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496207826277-291d4vp13bfbjbdb9nsick7gp1p2nat4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.piattochat.mehdimehdi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
